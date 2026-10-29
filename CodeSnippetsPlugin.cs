@@ -7,7 +7,7 @@ namespace Landoria.Shared
     {
         private const string PluginGuid = "Landoria.CodeSnippets";
         private const string PluginName = "Landoria.CodeSnippets";
-        private const string PluginVersion = "1.0.0";
+        private const string PluginVersion = "1.0.1";
 
         private void Awake()
         {
